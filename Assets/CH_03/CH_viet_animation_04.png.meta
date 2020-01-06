@@ -1,0 +1,582 @@
+fileFormatVersion: 2
+guid: 092858937270e8e499e1a6e318139286
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: CH_viet_animation_04_0
+    21300002: CH_viet_animation_04_1
+    21300004: CH_viet_animation_04_2
+    21300006: CH_viet_animation_04_3
+    21300008: CH_viet_animation_04_4
+    21300010: CH_viet_animation_04_5
+    21300012: CH_viet_animation_04_6
+    21300014: CH_viet_animation_04_7
+    21300016: CH_viet_animation_04_8
+    21300018: CH_viet_animation_04_9
+    21300020: CH_viet_animation_04_10
+    21300022: CH_viet_animation_04_11
+    21300024: CH_viet_animation_04_12
+    21300026: CH_viet_animation_04_13
+    21300028: CH_viet_animation_04_14
+    21300030: CH_viet_animation_04_15
+    21300032: CH_viet_animation_04_16
+    21300034: CH_viet_animation_04_17
+    21300036: CH_viet_animation_04_18
+    21300038: CH_viet_animation_04_19
+    21300040: CH_viet_animation_04_20
+    21300042: CH_viet_animation_04_21
+    21300044: CH_viet_animation_04_22
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CH_viet_animation_04_0
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 2809
+        width: 545
+        height: 610
+      alignment: 9
+      pivot: {x: 0.528541, y: 0.031732276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99cc2ab5d2fdee84fa573c82c61b11e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_viet_animation_04_1
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 3412
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80cd148e2f457349ad565f6aa7db9ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_viet_animation_04_2
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 3050
+        width: 67
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db163a309084f8148afa08caa35a7f4c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_viet_animation_04_3
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 3007
+        width: 112
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3199175bb858ec4fbe4796adbf062af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_viet_animation_04_4
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 3035
+        width: 122
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b3636a244975848b80b8d4fe8568a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_viet_animation_04_5
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 2998
+        width: 69
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c18f0cd3f35644898f7c82af76fa55
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_viet_animation_04_6
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 2870
+        width: 97
+        height: 50
+      alignment: 9
+      pivot: {x: 0.8563912, y: 0.65176755}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0fd28acc03158478e8811394ad9fce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_viet_animation_04_7
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 2911
+        width: 101
+        height: 29
+      alignment: 9
+      pivot: {x: 0.1076358, y: 0.2964709}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f478e714cd7000d4687b668102983a9e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_viet_animation_04_8
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 2767
+        width: 73
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631bcf7e9e638304ca8144f4e2f45f1e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_viet_animation_04_9
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 2782
+        width: 78
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624cd99f2acf588408145983e9be8609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_viet_animation_04_10
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 2617
+        width: 153
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062170f44123bf44db05e4083aa4cd87
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_viet_animation_04_11
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 2596
+        width: 102
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f2ed5ab394f7e49a6961fb749ff479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_viet_animation_04_12
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 2703
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30be99e524163648ac85c2233e9151c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_viet_animation_04_13
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 2615
+        width: 110
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59bb602732351074c8d8e8822d17d663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_viet_animation_04_14
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 2606
+        width: 146
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424f98af2dfb5d247a8b929f66060c79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_viet_animation_04_15
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 2692
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4e47e21d33fc343a871077a7ce931a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_viet_animation_04_16
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 2676
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb38a4d9933b1f64788d2a2e344d6871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_viet_animation_04_17
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 2682
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a086b057e2732fc418b859d2a714a7a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_viet_animation_04_18
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 308
+        width: 625
+        height: 2355
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421b94602a4d8864eb060e03f0ab9e08
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_viet_animation_04_19
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 2060
+        width: 189
+        height: 441
+      alignment: 9
+      pivot: {x: 0.80931646, y: 0.91242105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b70c11e8e530547ab69574e5325722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_viet_animation_04_20
+      rect:
+        serializedVersion: 2
+        x: 2101
+        y: 2055
+        width: 208
+        height: 453
+      alignment: 9
+      pivot: {x: 0.08361464, y: 0.89671665}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2600c78caaf788d48887063983e8fa67
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_viet_animation_04_21
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 1327
+        width: 276
+        height: 564
+      alignment: 9
+      pivot: {x: 0.64905447, y: 0.93381}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 677a5d9d385ef1a48bf75c244d319a2e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_viet_animation_04_22
+      rect:
+        serializedVersion: 2
+        x: 2136
+        y: 1322
+        width: 292
+        height: 585
+      alignment: 9
+      pivot: {x: 0.3220382, y: 0.9071337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f95ffac5e23b347ab10d44305cc749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 34bfcb60922fada4099f1975f47c576f
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
