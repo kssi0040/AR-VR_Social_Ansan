@@ -2,8 +2,8 @@ Unity Version : 2019.1.0f2
 
 적용방법 
 
-1. Unity 프로젝트 생성
+1. Clone or download에서 Download Zip 클릭
 
-2. 생성된 프로젝트에 Asset, ProjectSetting, Packages 폴더 덮어씌우기
+2. Download된 압축파일을 압축해제
 
-3. 실행
+3. Unity3D로 압축해제된 폴더를 열람
