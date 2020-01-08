@@ -161,5 +161,26 @@ public class ScrollRectSnap : MonoBehaviour
     }
 
 
+    public void MapButtonEvent()
+    {
+        if (0 == iMinButtonNum)
+        {
+            //36.895005, 126.206617
+            string strUrl = "https://www.google.com/maps/place/36.895005,126.206617/";
+            Application.OpenURL(strUrl);
+        }
+        else if (1 == iMinButtonNum)
+        {
+            string strUrl = "https://www.google.com/maps/place/36.845262,126.196726";
+            Application.OpenURL(strUrl);
+        }
+        else if (2 == iMinButtonNum)
+        {
+            //36.845262, 126.196726            
+            string strUrl = "https://www.google.com/maps/place/36.835972,126.195911";
+            Application.OpenURL(strUrl);
+        }
+    }
+
 
 }
